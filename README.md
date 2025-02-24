@@ -20,7 +20,7 @@ Cyber Security
   <a href="https://www.linkedin.com/in/yasa-wijaya/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="https://medium.com/@Yasa Wijaya" target="_blank" rel="noreferrer">
+  <a href="https://medium.com/@yasawijaya97" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
   </a>
 </p>
