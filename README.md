@@ -50,10 +50,10 @@ Cyber Security
 **My GitHub Stats**  
 
 <a href="http://www.github.com/Yasabuana">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yasabuana&show_icons=true&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=27272a&hide_border=true" alt="Yasabuana's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yasabuana&show_icons=true&count_private=true&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=27272a&hide_border=true%22%20alt=%22Yasabuana%27s%20GitHub%20stats%22" />
 </a>
 
 <a href="https://github.com/Yasabuana" align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yasabuana&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yasabuana&langs_count=10&title_color=3382ed&text_color=10b981&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages%22%20alt=%22Top%20Languages" />
 </a>
 
