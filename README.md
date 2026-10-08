@@ -6,7 +6,7 @@ Cyber Security
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [yasawijaya97@gmail.com](mailto:yasawijaya97@gmail.com)
-*   🧠  I'm learning MySQL
+*   🧠  I'm learning PostgreSQL
 *   ⚡  Aku cinta reboisasi🌱💚
 ### Socials  
 
